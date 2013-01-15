@@ -56,7 +56,7 @@
                     <configuration>
                         <archive>
                             <manifest>
-                                <packageName>${maven.jar.final.name}</packageName>
+                                <packageName>${project.build.finalName}.jar</packageName>
                                 <addDefaultSpecificationEntries>true</addDefaultSpecificationEntries>
                                 <addDefaultImplementationEntries>true</addDefaultImplementationEntries>
                             </manifest>
