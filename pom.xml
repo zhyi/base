@@ -9,12 +9,12 @@
     <packaging>pom</packaging>
     <name>Base</name>
     <description>The base configurations for all projects.</description>
-    <url>https://github.com/zhyi/base-configuration</url>
+    <url>https://github.com/zhyi/base</url>
     <inceptionYear>2012</inceptionYear>
     <scm>
-        <connection>scm:git:https://github.com/zhyi/base-configuration.git</connection>
-        <developerConnection>scm:git:https://github.com/zhyi/base-configuration.git</developerConnection>
-        <url>https://github.com/zhyi/base-configuration</url>
+        <connection>scm:git:https://github.com/zhyi/base.git</connection>
+        <developerConnection>scm:git:https://github.com/zhyi/base.git</developerConnection>
+        <url>https://github.com/zhyi/base</url>
     </scm>
     <licenses>
         <license>
